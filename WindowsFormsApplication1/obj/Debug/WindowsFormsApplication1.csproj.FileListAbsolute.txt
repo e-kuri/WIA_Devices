@@ -1,0 +1,12 @@
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\bin\Debug\Interop.WIA.dll
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\obj\Debug\Interop.WIA.dll
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\h255735\documents\visual studio 2015\Projects\WIA_List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
